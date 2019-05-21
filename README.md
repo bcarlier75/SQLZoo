@@ -1,2 +1,2 @@
 # SQLZoo
-SQL Exercices
+SQL exercises from http://sqlzoo.net.
